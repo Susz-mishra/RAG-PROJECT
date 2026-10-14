@@ -2,6 +2,8 @@
 streamlit
 chromadb
 python-dotenv
-langchain-groq
-langchain-huggingface
+groq
 sentence-transformers
+pypdf
+langchain-text-splitters
+   
